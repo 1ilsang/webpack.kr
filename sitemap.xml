@@ -10,10 +10,10 @@
         <loc>https://webpack.kr/api</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/branding</loc>
+        <loc>https://webpack.kr/blog</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/blog</loc>
+        <loc>https://webpack.kr/branding</loc>
     </url>
     <url>
         <loc>https://webpack.kr/comparison</loc>
@@ -118,13 +118,16 @@
         <loc>https://webpack.kr/api/stats</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/blog/2020-10-10-webpack-5-release</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/blog/2020-12-08-roadmap-2021</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/blog/2020-10-10-webpack-5-release</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/blog/printable</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/concepts/configuration</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/dependency-graph</loc>
@@ -134,9 +137,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/concepts/hot-module-replacement</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/concepts/configuration</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/loaders</loc>
@@ -170,6 +170,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/concepts/why-webpack</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/configuration/cache</loc>
     </url>
     <url>
         <loc>https://webpack.kr/configuration/configuration-languages</loc>
@@ -373,10 +376,10 @@
         <loc>https://webpack.kr/guides/why-webpack</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/loaders/coffee-loader</loc>
+        <loc>https://webpack.kr/loaders/babel-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/loaders/babel-loader</loc>
+        <loc>https://webpack.kr/loaders/coffee-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/loaders/css-loader</loc>
@@ -406,10 +409,10 @@
         <loc>https://webpack.kr/loaders/mocha-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/loaders/null-loader</loc>
+        <loc>https://webpack.kr/loaders/node-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/loaders/node-loader</loc>
+        <loc>https://webpack.kr/loaders/null-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/loaders/postcss-loader</loc>
@@ -460,9 +463,6 @@
         <loc>https://webpack.kr/plugins/automatic-prefetch-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/banner-plugin</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/plugins/commons-chunk-plugin</loc>
     </url>
     <url>
@@ -503,6 +503,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/plugins/html-minimizer-webpack-plugin</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/plugins/banner-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/html-webpack-plugin</loc>
