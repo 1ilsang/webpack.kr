@@ -589,9 +589,6 @@
         <loc>https://webpack.kr/api/plugins/module-factories</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/plugins/parser</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/api/plugins/resolver</loc>
     </url>
     <url>
@@ -599,5 +596,8 @@
     </url>
     <url>
         <loc>https://webpack.kr/api/plugins/template</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/api/plugins/parser</loc>
     </url>
 </urlset>
