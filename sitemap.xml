@@ -100,9 +100,6 @@
         <loc>https://webpack.kr/api/node</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/normalmodulefactory-hooks</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/api/parser</loc>
     </url>
     <url>
@@ -122,6 +119,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/blog/2020-12-08-roadmap-2021</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/api/normalmodulefactory-hooks</loc>
     </url>
     <url>
         <loc>https://webpack.kr/blog/printable</loc>
@@ -146,9 +146,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/concepts/mode</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/concepts/module-federation</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/module-resolution</loc>
@@ -185,6 +182,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/configuration/devtool</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/concepts/module-federation</loc>
     </url>
     <url>
         <loc>https://webpack.kr/configuration/entry-context</loc>
@@ -394,10 +394,10 @@
         <loc>https://webpack.kr/loaders/file-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/loaders/html-loader</loc>
+        <loc>https://webpack.kr/loaders/imports-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/loaders/imports-loader</loc>
+        <loc>https://webpack.kr/loaders/html-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/loaders/istanbul-instrumenter-loader</loc>
@@ -418,13 +418,13 @@
         <loc>https://webpack.kr/loaders/postcss-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/loaders/raw-loader</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/loaders/remark-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/loaders/sass-loader</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/loaders/raw-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/loaders/source-map-loader</loc>
@@ -475,10 +475,10 @@
         <loc>https://webpack.kr/plugins/context-exclusion-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/context-replacement-plugin</loc>
+        <loc>https://webpack.kr/plugins/copy-webpack-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/copy-webpack-plugin</loc>
+        <loc>https://webpack.kr/plugins/context-replacement-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/css-minimizer-webpack-plugin</loc>
@@ -589,6 +589,9 @@
         <loc>https://webpack.kr/api/plugins/module-factories</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/api/plugins/parser</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/api/plugins/resolver</loc>
     </url>
     <url>
@@ -596,8 +599,5 @@
     </url>
     <url>
         <loc>https://webpack.kr/api/plugins/template</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/api/plugins/parser</loc>
     </url>
 </urlset>
