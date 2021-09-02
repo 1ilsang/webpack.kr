@@ -583,9 +583,6 @@
         <loc>https://webpack.kr/pluginsapi/template</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/plugins/compilation</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/api/plugins/compiler</loc>
     </url>
     <url>
@@ -596,6 +593,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/api/plugins/resolver</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/api/plugins/compilation</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/plugins/tapable</loc>
