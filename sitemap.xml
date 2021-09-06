@@ -175,13 +175,13 @@
         <loc>https://webpack.kr/concepts/why-webpack</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/configuration/cache</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/configuration/configuration-languages</loc>
     </url>
     <url>
         <loc>https://webpack.kr/configuration/configuration-types</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/configuration/cache</loc>
     </url>
     <url>
         <loc>https://webpack.kr/configuration/dev-server</loc>
@@ -586,10 +586,10 @@
         <loc>https://webpack.kr/api/plugins/compilation</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/plugins/module-factories</loc>
+        <loc>https://webpack.kr/api/plugins/compiler</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/plugins/compiler</loc>
+        <loc>https://webpack.kr/api/plugins/module-factories</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/plugins/parser</loc>
