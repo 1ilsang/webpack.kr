@@ -70,9 +70,6 @@
         <loc>https://webpack.kr/writers-guide</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/cli</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/api/compilation-hooks</loc>
     </url>
     <url>
@@ -86,6 +83,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/api/hot-module-replacement</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/api/cli</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/loaders</loc>
@@ -130,13 +130,13 @@
         <loc>https://webpack.kr/blog/printable</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/concepts/configuration</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/concepts/dependency-graph</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/entry-points</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/concepts/configuration</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/hot-module-replacement</loc>
@@ -466,9 +466,6 @@
         <loc>https://webpack.kr/plugins/automatic-prefetch-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/banner-plugin</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/plugins/commons-chunk-plugin</loc>
     </url>
     <url>
@@ -488,6 +485,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/plugins/define-plugin</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/plugins/banner-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/dll-plugin</loc>
@@ -598,9 +598,9 @@
         <loc>https://webpack.kr/api/plugins/resolver</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/plugins/tapable</loc>
+        <loc>https://webpack.kr/api/plugins/template</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/plugins/template</loc>
+        <loc>https://webpack.kr/api/plugins/tapable</loc>
     </url>
 </urlset>
