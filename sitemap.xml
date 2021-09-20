@@ -61,22 +61,22 @@
         <loc>https://webpack.kr/pluginsapi</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/support</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/vote</loc>
     </url>
     <url>
         <loc>https://webpack.kr/writers-guide</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/cli</loc>
+        <loc>https://webpack.kr/support</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/compilation-hooks</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/compilation-object</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/api/cli</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/compiler-hooks</loc>
@@ -97,13 +97,13 @@
         <loc>https://webpack.kr/api/module-methods</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/module-variables</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/api/node</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/normalmodulefactory-hooks</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/api/module-variables</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/parser</loc>
@@ -130,16 +130,16 @@
         <loc>https://webpack.kr/blog/printable</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/concepts/entry-points</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/concepts/hot-module-replacement</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/concepts/configuration</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/dependency-graph</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/concepts/entry-points</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/concepts/hot-module-replacement</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/loaders</loc>
@@ -163,10 +163,10 @@
         <loc>https://webpack.kr/concepts/output</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/concepts/targets</loc>
+        <loc>https://webpack.kr/concepts/plugins</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/concepts/plugins</loc>
+        <loc>https://webpack.kr/concepts/targets</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/under-the-hood</loc>
@@ -307,9 +307,6 @@
         <loc>https://webpack.kr/guides/code-splitting-require</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides/csp</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/guides/dependency-management</loc>
     </url>
     <url>
@@ -320,6 +317,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/guides/ecma-script-modules</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/guides/csp</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides/entry-advanced</loc>
@@ -466,6 +466,9 @@
         <loc>https://webpack.kr/plugins/automatic-prefetch-plugin</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/plugins/banner-plugin</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/plugins/commons-chunk-plugin</loc>
     </url>
     <url>
@@ -478,9 +481,6 @@
         <loc>https://webpack.kr/plugins/context-replacement-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/banner-plugin</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/plugins/copy-webpack-plugin</loc>
     </url>
     <url>
@@ -490,6 +490,9 @@
         <loc>https://webpack.kr/plugins/define-plugin</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/plugins/dll-plugin</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/plugins/environment-plugin</loc>
     </url>
     <url>
@@ -497,9 +500,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/plugins/eval-source-map-dev-tool-plugin</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/plugins/dll-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/hashed-module-ids-plugin</loc>
@@ -529,10 +529,10 @@
         <loc>https://webpack.kr/plugins/json-minimizer-webpack-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/limit-chunk-count-plugin</loc>
+        <loc>https://webpack.kr/plugins/min-chunk-size-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/min-chunk-size-plugin</loc>
+        <loc>https://webpack.kr/plugins/limit-chunk-count-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/mini-css-extract-plugin</loc>
