@@ -130,6 +130,9 @@
         <loc>https://webpack.kr/blog/printable</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/concepts/configuration</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/concepts/dependency-graph</loc>
     </url>
     <url>
@@ -142,13 +145,13 @@
         <loc>https://webpack.kr/concepts/loaders</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/concepts/configuration</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/concepts/manifest</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/mode</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/concepts/module-federation</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/module-resolution</loc>
@@ -158,9 +161,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/concepts/output</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/concepts/module-federation</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/plugins</loc>
@@ -214,9 +214,6 @@
         <loc>https://webpack.kr/configuration/other-options</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/configuration/output</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/configuration/performance</loc>
     </url>
     <url>
@@ -238,7 +235,13 @@
         <loc>https://webpack.kr/contribute/debugging</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/configuration/output</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/contribute/plugin-patterns</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/contribute/release-process</loc>
     </url>
     <url>
         <loc>https://webpack.kr/contribute/writers-guide</loc>
@@ -257,9 +260,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/development/how-to-write-a-plugin</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/contribute/release-process</loc>
     </url>
     <url>
         <loc>https://webpack.kr/development/plugin-patterns</loc>
@@ -316,10 +316,10 @@
         <loc>https://webpack.kr/guides/development</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides/ecma-script-modules</loc>
+        <loc>https://webpack.kr/guides/development-vagrant</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides/development-vagrant</loc>
+        <loc>https://webpack.kr/guides/ecma-script-modules</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides/entry-advanced</loc>
@@ -373,10 +373,10 @@
         <loc>https://webpack.kr/guides/typescript</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides/why-webpack</loc>
+        <loc>https://webpack.kr/guides/web-workers</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides/web-workers</loc>
+        <loc>https://webpack.kr/guides/why-webpack</loc>
     </url>
     <url>
         <loc>https://webpack.kr/loaders/babel-loader</loc>
@@ -433,10 +433,10 @@
         <loc>https://webpack.kr/loaders/source-map-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/loaders/stylus-loader</loc>
+        <loc>https://webpack.kr/loaders/style-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/loaders/style-loader</loc>
+        <loc>https://webpack.kr/loaders/stylus-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/loaders/thread-loader</loc>
@@ -464,6 +464,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/plugins/automatic-prefetch-plugin</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/plugins/banner-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/commons-chunk-plugin</loc>
@@ -515,9 +518,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/plugins/image-minimizer-webpack-plugin</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/plugins/banner-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/install-webpack-plugin</loc>
@@ -589,6 +589,9 @@
         <loc>https://webpack.kr/api/plugins/compiler</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/api/plugins/module-factories</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/api/plugins/parser</loc>
     </url>
     <url>
@@ -596,9 +599,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/api/plugins/tapable</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/api/plugins/module-factories</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/plugins/template</loc>
