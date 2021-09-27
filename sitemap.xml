@@ -214,6 +214,9 @@
         <loc>https://webpack.kr/configuration/other-options</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/configuration/output</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/configuration/performance</loc>
     </url>
     <url>
@@ -233,9 +236,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/contribute/debugging</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/configuration/output</loc>
     </url>
     <url>
         <loc>https://webpack.kr/contribute/plugin-patterns</loc>
@@ -595,12 +595,12 @@
         <loc>https://webpack.kr/api/plugins/parser</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/plugins/resolver</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/api/plugins/tapable</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/plugins/template</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/api/plugins/resolver</loc>
     </url>
 </urlset>
