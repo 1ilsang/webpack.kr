@@ -97,6 +97,9 @@
         <loc>https://webpack.kr/api/module-methods</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/api/module-variables</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/api/node</loc>
     </url>
     <url>
@@ -118,9 +121,6 @@
         <loc>https://webpack.kr/api/stats</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/module-variables</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/blog/2020-10-10-webpack-5-release</loc>
     </url>
     <url>
@@ -130,9 +130,6 @@
         <loc>https://webpack.kr/blog/printable</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/concepts/configuration</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/concepts/dependency-graph</loc>
     </url>
     <url>
@@ -140,6 +137,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/concepts/hot-module-replacement</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/concepts/configuration</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/loaders</loc>
@@ -205,6 +205,9 @@
         <loc>https://webpack.kr/configuration/module</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/configuration/node</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/configuration/optimization</loc>
     </url>
     <url>
@@ -235,13 +238,13 @@
         <loc>https://webpack.kr/contribute/debugging</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/configuration/node</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/contribute/plugin-patterns</loc>
     </url>
     <url>
         <loc>https://webpack.kr/contribute/release-process</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/contribute/writers-guide</loc>
     </url>
     <url>
         <loc>https://webpack.kr/contribute/writing-a-loader</loc>
@@ -257,9 +260,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/development/how-to-write-a-plugin</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/contribute/writers-guide</loc>
     </url>
     <url>
         <loc>https://webpack.kr/development/plugin-patterns</loc>
@@ -281,6 +281,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/guides/author-libraries</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/guides/build-performance</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides/caching</loc>
@@ -326,9 +329,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/guides/getting-started</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/guides/build-performance</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides/hot-module-replacement</loc>
@@ -409,10 +409,10 @@
         <loc>https://webpack.kr/loaders/less-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/loaders/mocha-loader</loc>
+        <loc>https://webpack.kr/loaders/node-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/loaders/node-loader</loc>
+        <loc>https://webpack.kr/loaders/mocha-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/loaders/null-loader</loc>
@@ -553,10 +553,10 @@
         <loc>https://webpack.kr/plugins/prefetch-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/profiling-plugin</loc>
+        <loc>https://webpack.kr/plugins/progress-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/progress-plugin</loc>
+        <loc>https://webpack.kr/plugins/profiling-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/provide-plugin</loc>
