@@ -70,6 +70,9 @@
         <loc>https://webpack.kr/writers-guide</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/api/cli</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/api/compilation-hooks</loc>
     </url>
     <url>
@@ -83,9 +86,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/api/hot-module-replacement</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/api/cli</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/loaders</loc>
@@ -136,13 +136,13 @@
         <loc>https://webpack.kr/concepts/dependency-graph</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/concepts/configuration</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/concepts/entry-points</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/hot-module-replacement</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/concepts/configuration</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/loaders</loc>
@@ -184,10 +184,10 @@
         <loc>https://webpack.kr/configuration/configuration-languages</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/configuration/configuration-types</loc>
+        <loc>https://webpack.kr/configuration/dev-server</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/configuration/dev-server</loc>
+        <loc>https://webpack.kr/configuration/configuration-types</loc>
     </url>
     <url>
         <loc>https://webpack.kr/configuration/devtool</loc>
@@ -238,9 +238,6 @@
         <loc>https://webpack.kr/configuration/watch</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/contribute/debugging</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/contribute/plugin-patterns</loc>
     </url>
     <url>
@@ -248,6 +245,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/contribute/writers-guide</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/contribute/debugging</loc>
     </url>
     <url>
         <loc>https://webpack.kr/contribute/writing-a-loader</loc>
@@ -388,6 +388,9 @@
         <loc>https://webpack.kr/loaders/coffee-loader</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/loaders/css-loader</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/loaders/exports-loader</loc>
     </url>
     <url>
@@ -395,9 +398,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/loaders/file-loader</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/loaders/css-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/loaders/html-loader</loc>
@@ -493,10 +493,10 @@
         <loc>https://webpack.kr/plugins/define-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/environment-plugin</loc>
+        <loc>https://webpack.kr/plugins/dll-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/dll-plugin</loc>
+        <loc>https://webpack.kr/plugins/environment-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/eslint-webpack-plugin</loc>
@@ -598,12 +598,12 @@
         <loc>https://webpack.kr/api/plugins/parser</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/plugins/resolver</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/api/plugins/tapable</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/plugins/template</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/api/plugins/resolver</loc>
     </url>
 </urlset>
