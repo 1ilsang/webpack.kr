@@ -10,6 +10,9 @@
         <loc>https://webpack.kr/api</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/awesome-webpack</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/blog</loc>
     </url>
     <url>
@@ -47,9 +50,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/migrate</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/awesome-webpack</loc>
     </url>
     <url>
         <loc>https://webpack.kr/migrating</loc>
@@ -319,6 +319,9 @@
         <loc>https://webpack.kr/guides/development</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/guides/development-vagrant</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/guides/ecma-script-modules</loc>
     </url>
     <url>
@@ -332,9 +335,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/guides/hot-module-replacement</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/guides/development-vagrant</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides/installation</loc>
@@ -436,22 +436,22 @@
         <loc>https://webpack.kr/loaders/source-map-loader</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/loaders/style-loader</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/loaders/stylus-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/loaders/thread-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/loaders/style-loader</loc>
+        <loc>https://webpack.kr/loaders/url-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/loaders/val-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/loaders/worker-loader</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/loaders/url-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/migrate/3</loc>
@@ -463,6 +463,9 @@
         <loc>https://webpack.kr/migrate/5</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/plugins/NoEmitOnErrorsPlugin</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/plugins/automatic-prefetch-plugin</loc>
     </url>
     <url>
@@ -472,7 +475,7 @@
         <loc>https://webpack.kr/plugins/commons-chunk-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/NoEmitOnErrorsPlugin</loc>
+        <loc>https://webpack.kr/plugins/compression-webpack-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/context-exclusion-plugin</loc>
@@ -518,9 +521,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/plugins/image-minimizer-webpack-plugin</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/plugins/compression-webpack-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/install-webpack-plugin</loc>
@@ -601,9 +601,9 @@
         <loc>https://webpack.kr/api/plugins/resolver</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/plugins/template</loc>
+        <loc>https://webpack.kr/api/plugins/tapable</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/plugins/tapable</loc>
+        <loc>https://webpack.kr/api/plugins/template</loc>
     </url>
 </urlset>
