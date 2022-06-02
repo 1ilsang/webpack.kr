@@ -187,10 +187,10 @@
         <loc>https://webpack.kr/configuration/configuration-types</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/configuration/devtool</loc>
+        <loc>https://webpack.kr/configuration/dev-server</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/configuration/dev-server</loc>
+        <loc>https://webpack.kr/configuration/devtool</loc>
     </url>
     <url>
         <loc>https://webpack.kr/configuration/entry-context</loc>
@@ -220,6 +220,9 @@
         <loc>https://webpack.kr/configuration/output</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/configuration/performance</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/configuration/plugins</loc>
     </url>
     <url>
@@ -233,9 +236,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/configuration/watch</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/configuration/performance</loc>
     </url>
     <url>
         <loc>https://webpack.kr/contribute/debugging</loc>
