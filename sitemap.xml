@@ -25,13 +25,13 @@
         <loc>https://webpack.kr/concepts</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/configuration</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/contribute</loc>
     </url>
     <url>
         <loc>https://webpack.kr/development</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/configuration</loc>
     </url>
     <url>
         <loc>https://webpack.kr/get-started</loc>
@@ -55,10 +55,10 @@
         <loc>https://webpack.kr/migrating</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/pluginsapi</loc>
+        <loc>https://webpack.kr/plugins</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins</loc>
+        <loc>https://webpack.kr/pluginsapi</loc>
     </url>
     <url>
         <loc>https://webpack.kr/support</loc>
@@ -70,22 +70,22 @@
         <loc>https://webpack.kr/writers-guide</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/cli</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/api/compilation-hooks</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/compilation-object</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/api/cli</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/api/compiler-hooks</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/contextmodulefactory-hooks</loc>
+        <loc>https://webpack.kr/api/hot-module-replacement</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/hot-module-replacement</loc>
+        <loc>https://webpack.kr/api/contextmodulefactory-hooks</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/loaders</loc>
@@ -109,6 +109,9 @@
         <loc>https://webpack.kr/api/parser</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/api/passing-a-config</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/api/plugins</loc>
     </url>
     <url>
@@ -116,9 +119,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/api/stats</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/api/passing-a-config</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/webpack-dev-server</loc>
@@ -133,9 +133,6 @@
         <loc>https://webpack.kr/blog/printable</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/concepts/configuration</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/concepts/dependency-graph</loc>
     </url>
     <url>
@@ -145,10 +142,13 @@
         <loc>https://webpack.kr/concepts/hot-module-replacement</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/concepts/manifest</loc>
+        <loc>https://webpack.kr/concepts/configuration</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/loaders</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/concepts/manifest</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/mode</loc>
@@ -176,39 +176,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/concepts/why-webpack</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/contribute/debugging</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/contribute/plugin-patterns</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/contribute/release-process</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/contribute/writers-guide</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/contribute/writing-a-loader</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/contribute/writing-a-plugin</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/contribute/writing-a-scaffold</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/development/how-to-write-a-loader</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/development/how-to-write-a-plugin</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/development/plugin-patterns</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/development/release-process</loc>
     </url>
     <url>
         <loc>https://webpack.kr/configuration/cache</loc>
@@ -271,6 +238,39 @@
         <loc>https://webpack.kr/configuration/watch</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/contribute/debugging</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/contribute/plugin-patterns</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/contribute/release-process</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/contribute/writers-guide</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/contribute/writing-a-loader</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/contribute/writing-a-plugin</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/contribute/writing-a-scaffold</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/development/how-to-write-a-loader</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/development/how-to-write-a-plugin</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/development/plugin-patterns</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/development/release-process</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/get-started/install-webpack</loc>
     </url>
     <url>
@@ -286,13 +286,13 @@
         <loc>https://webpack.kr/guides/author-libraries</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/guides/build-performance</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/guides/caching</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides/code-splitting</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/guides/build-performance</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides/code-splitting-async</loc>
@@ -304,13 +304,13 @@
         <loc>https://webpack.kr/guides/code-splitting-import</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/guides/code-splitting-libraries</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/guides/code-splitting-require</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides/csp</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/guides/code-splitting-libraries</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides/dependency-management</loc>
@@ -463,19 +463,13 @@
         <loc>https://webpack.kr/migrate/5</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/pluginsapi/compiler</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/pluginsapi/template</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/plugins/NoEmitOnErrorsPlugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/automatic-prefetch-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/commons-chunk-plugin</loc>
+        <loc>https://webpack.kr/plugins/banner-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/compression-webpack-plugin</loc>
@@ -484,10 +478,10 @@
         <loc>https://webpack.kr/plugins/context-exclusion-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/banner-plugin</loc>
+        <loc>https://webpack.kr/plugins/context-replacement-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/context-replacement-plugin</loc>
+        <loc>https://webpack.kr/plugins/commons-chunk-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/copy-webpack-plugin</loc>
@@ -550,13 +544,13 @@
         <loc>https://webpack.kr/plugins/module-concatenation-plugin</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/plugins/module-federation-plugin</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/plugins/no-emit-on-errors-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/normal-module-replacement-plugin</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/plugins/module-federation-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/prefetch-plugin</loc>
@@ -584,6 +578,12 @@
     </url>
     <url>
         <loc>https://webpack.kr/plugins/watch-ignore-plugin</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/pluginsapi/compiler</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/pluginsapi/template</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/plugins/compilation</loc>
