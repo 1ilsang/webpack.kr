@@ -133,7 +133,7 @@
         <loc>https://webpack.kr/blog/printable</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/concepts/dependency-graph</loc>
+        <loc>https://webpack.kr/concepts/configuration</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/entry-points</loc>
@@ -142,7 +142,7 @@
         <loc>https://webpack.kr/concepts/hot-module-replacement</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/concepts/configuration</loc>
+        <loc>https://webpack.kr/concepts/dependency-graph</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/loaders</loc>
@@ -343,13 +343,13 @@
         <loc>https://webpack.kr/guides/integrations</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/guides/lazy-loading</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/guides/output-management</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides/package-exports</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/guides/lazy-loading</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides/production</loc>
@@ -448,13 +448,13 @@
         <loc>https://webpack.kr/loaders/url-loader</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/loaders/val-loader</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/loaders/worker-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/migrate/3</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/loaders/val-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/migrate/4</loc>
