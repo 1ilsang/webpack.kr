@@ -307,9 +307,6 @@
         <loc>https://webpack.kr/guides/code-splitting-libraries</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides/code-splitting-require</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/guides/csp</loc>
     </url>
     <url>
@@ -317,6 +314,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/guides/development</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/guides/code-splitting-require</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides/development-vagrant</loc>
