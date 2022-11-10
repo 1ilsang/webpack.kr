@@ -46,13 +46,13 @@
         <loc>https://webpack.kr/license</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/loaders</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/migrate</loc>
     </url>
     <url>
         <loc>https://webpack.kr/migrating</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/loaders</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins</loc>
@@ -115,10 +115,10 @@
         <loc>https://webpack.kr/api/plugins</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/stats</loc>
+        <loc>https://webpack.kr/api/resolvers</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/resolvers</loc>
+        <loc>https://webpack.kr/api/stats</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/webpack-dev-server</loc>
@@ -382,15 +382,6 @@
         <loc>https://webpack.kr/guides/why-webpack</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/migrate/3</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/migrate/4</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/migrate/5</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/loaders/babel-loader</loc>
     </url>
     <url>
@@ -461,6 +452,15 @@
     </url>
     <url>
         <loc>https://webpack.kr/loaders/worker-loader</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/migrate/3</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/migrate/4</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/migrate/5</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/NoEmitOnErrorsPlugin</loc>
