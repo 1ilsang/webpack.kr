@@ -133,13 +133,13 @@
         <loc>https://webpack.kr/blog/printable</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/concepts/configuration</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/concepts/dependency-graph</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/entry-points</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/concepts/configuration</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/hot-module-replacement</loc>
@@ -151,10 +151,10 @@
         <loc>https://webpack.kr/concepts/manifest</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/concepts/mode</loc>
+        <loc>https://webpack.kr/concepts/module-federation</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/concepts/module-federation</loc>
+        <loc>https://webpack.kr/concepts/mode</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/module-resolution</loc>
@@ -172,9 +172,6 @@
         <loc>https://webpack.kr/concepts/targets</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/concepts/under-the-hood</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/concepts/why-webpack</loc>
     </url>
     <url>
@@ -182,6 +179,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/configuration/configuration-languages</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/concepts/under-the-hood</loc>
     </url>
     <url>
         <loc>https://webpack.kr/configuration/configuration-types</loc>
@@ -316,9 +316,6 @@
         <loc>https://webpack.kr/guides/dependency-management</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides/development</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/guides/development-vagrant</loc>
     </url>
     <url>
@@ -326,6 +323,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/guides/entry-advanced</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/guides/development</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides/environment-variables</loc>
