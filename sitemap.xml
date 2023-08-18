@@ -94,10 +94,10 @@
         <loc>https://webpack.kr/api/module-methods</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/node</loc>
+        <loc>https://webpack.kr/api/module-variables</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/module-variables</loc>
+        <loc>https://webpack.kr/api/node</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/normalmodulefactory-hooks</loc>
@@ -166,13 +166,13 @@
         <loc>https://webpack.kr/concepts/plugins</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/concepts/targets</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/concepts/under-the-hood</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/why-webpack</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/concepts/targets</loc>
     </url>
     <url>
         <loc>https://webpack.kr/configuration/cache</loc>
@@ -256,10 +256,10 @@
         <loc>https://webpack.kr/contribute/writing-a-scaffold</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/development/how-to-write-a-plugin</loc>
+        <loc>https://webpack.kr/development/how-to-write-a-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/development/how-to-write-a-loader</loc>
+        <loc>https://webpack.kr/development/how-to-write-a-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/development/plugin-patterns</loc>
@@ -322,10 +322,10 @@
         <loc>https://webpack.kr/guides/ecma-script-modules</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides/environment-variables</loc>
+        <loc>https://webpack.kr/guides/entry-advanced</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides/entry-advanced</loc>
+        <loc>https://webpack.kr/guides/environment-variables</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides/getting-started</loc>
@@ -358,10 +358,10 @@
         <loc>https://webpack.kr/guides/progressive-web-application</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides/scaffolding</loc>
+        <loc>https://webpack.kr/guides/public-path</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides/public-path</loc>
+        <loc>https://webpack.kr/guides/scaffolding</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides/shimming</loc>
@@ -403,10 +403,10 @@
         <loc>https://webpack.kr/loaders/imports-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/loaders/less-loader</loc>
+        <loc>https://webpack.kr/loaders/istanbul-instrumenter-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/loaders/istanbul-instrumenter-loader</loc>
+        <loc>https://webpack.kr/loaders/less-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/loaders/mocha-loader</loc>
@@ -451,10 +451,10 @@
         <loc>https://webpack.kr/loaders/worker-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/migrate/4</loc>
+        <loc>https://webpack.kr/migrate/3</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/migrate/3</loc>
+        <loc>https://webpack.kr/migrate/4</loc>
     </url>
     <url>
         <loc>https://webpack.kr/migrate/5</loc>
@@ -478,10 +478,10 @@
         <loc>https://webpack.kr/plugins/context-exclusion-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/copy-webpack-plugin</loc>
+        <loc>https://webpack.kr/plugins/context-replacement-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/context-replacement-plugin</loc>
+        <loc>https://webpack.kr/plugins/copy-webpack-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/css-minimizer-webpack-plugin</loc>
@@ -556,13 +556,13 @@
         <loc>https://webpack.kr/plugins/profiling-plugin</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/plugins/progress-plugin</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/plugins/provide-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/source-map-dev-tool-plugin</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/plugins/progress-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/split-chunks-plugin</loc>
