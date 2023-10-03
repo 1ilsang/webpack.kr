@@ -352,10 +352,10 @@
         <loc>https://webpack.kr/guides/production</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides/production-build</loc>
+        <loc>https://webpack.kr/guides/progressive-web-application</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides/progressive-web-application</loc>
+        <loc>https://webpack.kr/guides/production-build</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides/public-path</loc>
