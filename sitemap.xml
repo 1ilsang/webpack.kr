@@ -67,6 +67,9 @@
         <loc>https://webpack.kr/writers-guide</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/loaders/stylus-loader</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/api/cli</loc>
     </url>
     <url>
@@ -361,10 +364,10 @@
         <loc>https://webpack.kr/guides/public-path</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides/shimming</loc>
+        <loc>https://webpack.kr/guides/scaffolding</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides/scaffolding</loc>
+        <loc>https://webpack.kr/guides/shimming</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides/tree-shaking</loc>
@@ -434,9 +437,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/loaders/style-loader</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/loaders/stylus-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/loaders/thread-loader</loc>
