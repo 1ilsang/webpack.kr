@@ -67,9 +67,6 @@
         <loc>https://webpack.kr/writers-guide</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/loaders/stylus-loader</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/api/cli</loc>
     </url>
     <url>
@@ -437,6 +434,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/loaders/style-loader</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/loaders/stylus-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/loaders/thread-loader</loc>
