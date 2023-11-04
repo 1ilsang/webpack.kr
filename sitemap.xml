@@ -37,10 +37,10 @@
         <loc>https://webpack.kr/get-started</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides</loc>
+        <loc>https://webpack.kr/glossary</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/glossary</loc>
+        <loc>https://webpack.kr/guides</loc>
     </url>
     <url>
         <loc>https://webpack.kr/license</loc>
@@ -358,10 +358,10 @@
         <loc>https://webpack.kr/guides/progressive-web-application</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides/public-path</loc>
+        <loc>https://webpack.kr/guides/scaffolding</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides/scaffolding</loc>
+        <loc>https://webpack.kr/guides/public-path</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides/shimming</loc>
